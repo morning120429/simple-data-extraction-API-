@@ -1,0 +1,2 @@
+python sample.py
+pause
